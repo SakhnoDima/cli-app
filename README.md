@@ -3,19 +3,17 @@
 
 <ul>
     <li>
-    <p>listContacts</p>
- https://ibb.co/ncWkWkF
+    <p>listContacts -- https://ibb.co/ncWkWkF</p>
   </li>
   <li>
-    <p>getContactById</p>
-[    <a href="https://ibb.co/SB6Tfz5"></a>](https://ibb.co/SB6Tfz5)
+    <p>getContactById -- https://ibb.co/SB6Tfz5</p>
   </li>
   <li> 
-   <p>removeContact https://ibb.co/k3vFd7P</p>
-    <a href="https://ibb.co/k3vFd7P"></a></li>
+   <p>removeContact -- https://ibb.co/k3vFd7P</p>
+ 
   <li> 
-   <p>addContact https://ibb.co/KxVH9S7</p>
-    <a href="https://ibb.co/KxVH9S7"></a></li>
+   <p>addContact -- https://ibb.co/KxVH9S7</p>
+ </li>
 </ul>;
 
 
