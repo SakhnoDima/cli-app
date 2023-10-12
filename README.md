@@ -9,12 +9,12 @@
     <p>getContactById -- https://ibb.co/SB6Tfz5</p>
   </li>
   <li> 
-   <p>removeContact -- https://ibb.co/k3vFd7P</p>
+   <p>removeContact --  https://ibb.co/KxVH9S7 </p>
  
   <li> 
-   <p>addContact -- https://ibb.co/KxVH9S7</p>
+   <p>addContact -- https://ibb.co/k3vFd7P</p>
  </li>
-</ul>;
+</ul>
 
 
 
